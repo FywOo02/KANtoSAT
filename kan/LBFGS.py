@@ -31,7 +31,6 @@ def _cubic_interpolate(x1, f1, g1, x2, f2, g2, bounds=None):
     else:
         return (xmin_bound + xmax_bound) / 2.
 
-
 def _strong_wolfe(obj_func,
                   x,
                   t,
