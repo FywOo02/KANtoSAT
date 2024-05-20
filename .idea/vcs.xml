@@ -2,8 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/resource/FourierKAN" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/resource/efficient-kan" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/resource/pykan" vcs="Git" />
   </component>
 </project>
